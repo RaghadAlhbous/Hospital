@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\User\Desktop\programs\novahospital\vendor\laravel\nova\src/../resources/views/partials/meta.blade.php ENDPATH**/ ?>
